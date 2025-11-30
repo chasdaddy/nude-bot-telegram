@@ -1,0 +1,6 @@
+python-telegram-bot==20.8
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+nudepy
+opencv-python-headless
+pillow
+gtts
